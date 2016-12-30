@@ -1,0 +1,22 @@
+StudyID,Study,Master Budget,StudySiteNumber,Site,Status,Is Amendment,Effective Date,Cost Type,Cost description,Arm 1,Arm 2,Arm 3,Arm 4,Arm 5,Min QTY,Max QTY,Currency,Total Line Item Cost
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,SCREENING,MAIN,"","","","",1.0,1.0,BRL,1571.48
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,DAY 1,MAIN,"","","","",1.0,1.0,BRL,1265.29
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,DAY 30,MAIN,"","","","",1.0,1.0,BRL,601.74
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,DAY 90,MAIN,"","","","",1.0,1.0,BRL,601.74
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,DAY 180,MAIN,"","","","",1.0,1.0,BRL,601.74
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,DAY 270,MAIN,"","","","",1.0,1.0,BRL,601.74
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,END OF TREATMENT,MAIN,"","","","",1.0,1.0,BRL,706.39
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,END OF STUDY,MAIN,"","","","",1.0,1.0,BRL,677.64
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,Reconsent,"",INVOICE,"","","",1.0,1.0,BRL,298.5
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,Unscheduled Visit,"",INVOICE,"","","",1.0,1.0,BRL,810.0
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,Repeat Labs,"",INVOICE,"","","",1.0,1.0,BRL,58.0
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,Neurological Exam Visit,"",INVOICE,"","","",1.0,1.0,BRL,858.0
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,Modified Rankin Visit,"",INVOICE,"","","",1.0,1.0,BRL,185.5
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,Follow-up Call,"",INVOICE,"","","",1.0,1.0,BRL,248.5
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,Additional Pregnancy Testing,"",INVOICE,"","","",1.0,1.0,BRL,60.0
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,SAE Processing,"",INVOICE,"","","",1.0,1.0,BRL,236.0
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,Adjudication Evaluation,"",INVOICE,"","","",1.0,1.0,BRL,394.0
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,Pre-screening Effort,"",INVOICE,"","","",1.0,1.0,BRL,71.0
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,Discontinued Study Drug 30-Day Follow-up Visit,"",INVOICE,"","","",1.0,1.0,BRL,544.0
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",subject,Outcome Event Study Drug Discontinuation Visit,"",INVOICE,"","","",1.0,1.0,BRL,607.0
+22669,RIVAROXACS2002,Brazil,A30-BR10032,"Andrade, Pedro (Irmandade da Santa Casa de Misericórdia de Marília)",completed,N,"",screen_failure,Screen Failure 1,MAIN,"","","","",1.0,1.0,BRL,1571.48
