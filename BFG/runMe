@@ -1,0 +1,16 @@
+
+git clone --mirror git@github.com:ezeller/testRepoforBFG.git tmp_repo
+java -jar bfg-1.12.14.jar --delete-folders deleteMe1  tmp_repo
+java -jar bfg-1.12.14.jar --delete-folders deleteMe2  tmp_repo
+cd tmp_repo
+git reflog expire --expire=now --all && git gc --prune=now --aggressive
+(possible testing goes here - see below)
+git push
+
+
+
+To Test:
+cd ..
+git clone tmp_repo small_repo
+cd small_repo
+git checkout develop
